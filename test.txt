@@ -1,7 +1,0 @@
-1) Plan 
-2) Execute 
-3) Teat 
-4) Release 
-5) Maintain 
-6) Quit 
-
