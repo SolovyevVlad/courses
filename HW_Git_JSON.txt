@@ -27,7 +27,7 @@ JSON
 	в формате JSON.
  14. Создать файл sklls.json добавить информацию о скиллах которые 	----> 	$ cat > skills.json
 	будут изучены на курсе в формате JSON				     	{
- 										       "Skills" : ["Terminal Linux", "GitBush", "HTTP Methods", "JSON", "XML", "API",
+ 										       "Skills" : ["Terminal Linux", "GitBash", "HTTP Methods", "JSON", "XML", "API",
               									          "POSTMAN", "DevTools", "Charles", "Fidler", "JMeter", "SQL"]
 									      	}
  15. Отправить сразу 2 файла на внешний репозиторий.			---->	$ git add preferences.json skills.json
