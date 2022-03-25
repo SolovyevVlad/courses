@@ -7,7 +7,7 @@ GIT HomeWork 1
 
 JSON
  4. Создать внешний репозиторий c названием HomeWork_Git_JSON.		---->	Заходим на сайт github.com в свою учетную запись. Далее "Your profile" - "Repositories" - "New" - Вводим название и необходимые настройки - "Create repository"
- 5. Клонировать репозиторий HomeWork_Git_JSON на локальный компьютер.	---->	git clone link(ссылка на внешний репозиторий)
+ 5. Клонировать репозиторий HomeWork_Git_JSON на локальный компьютер.	---->	$ git clone link(ссылка на внешний репозиторий)
  6. Внутри локального HomeWork_Git_JSON создать файл “new.json”.	---->	$ cd HomeWork_Git_JSON/(заходим в папку клонированного внешнего репозитория)
 									     	$ touch new.json	
  6.1. Внутри локального HomeWork_Git_JSON создать файл “new.json”.	---->	$ touch HomeWork_Git_JSON/new.json
